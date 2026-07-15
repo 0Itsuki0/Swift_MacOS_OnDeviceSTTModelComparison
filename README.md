@@ -3,7 +3,7 @@
 A comparison of on device models (specifically, whisper family and qwen3 ASR
 family) when actually running locally on device.
 
-For more details, please refer to my blog [Swift/MacOS OnDevice STT. Which Model To Choose?]()
+For more details, please refer to my blog [Swift/MacOS OnDevice STT. Which Model To Choose?](https://medium.com/@itsuki.enjoy/swift-macos-ondevice-stt-which-model-to-choose-mlx-d0478e52be3d)
 
 
 | Model                             |                 Approx. Time | English    | Japanese   | Mixed Language | Stability  | Overall Notes                                                                                                                                                                                                                                |
